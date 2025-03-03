@@ -25,7 +25,7 @@ A 3D wireframe visualization project that converts terrain data into a 2D isomet
 A sorting algorithm challenge where you must arrange numbers with limited operations.
 - 🔗 [Check it out!](https://github.com/MKNSTEJA/push_swap)
 
-### 🍽️ Philosophers - When dining turns into a deadlock situation! 🍴💭
+### 🍽️ Philosophers - Simulating a simple society! 🍴💭
 A multi-threaded simulation of dining philosophers, focusing on concurrency, resource management, and avoiding starvation.
 - 🔗 [Check it out!](https://github.com/MKNSTEJA/philosophers)
 
