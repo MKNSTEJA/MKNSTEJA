@@ -17,6 +17,8 @@ Soon I will be expanding my expertise in C++, C#, Networking, Graphics and Game 
 
 ## 📌 Featured Projects
 
+Here are some of my special picks:
+
 ### 🌀 **FDF** - *Because drawing lines in MS Paint wasn’t challenging enough!* 🎨🖥️  
 A 3D wireframe visualization project that converts terrain data into a 2D isometric projection.
 - 🔗 [Check it out!](https://github.com/MKNSTEJA/FDF)
