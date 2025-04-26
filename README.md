@@ -39,7 +39,7 @@ A UNIX signals-based project that lets processes send messages to each other—l
 
 ## 🚀 Skills & Tech Stack
 
-🔹 **Languages**: C, Python, Shell Scripting, Bash  
+🔹 **Languages**: C, Python, Shell Scripting, Bash, Makefile  
 
 ---
 
