@@ -39,9 +39,9 @@ A UNIX signals-based project that lets processes send messages to each other—l
 
 ## 🚀 Skills & Tech Stack
 
-🔹 **Languages**: C, C++, Lua, Python, Shell
-🔹 **Skills**: Deep learning and AI
-🔹 **Tools**: Neovim, VScode, Canva
+🔹 **Languages**: C, C++, Lua, Python, Shell.
+🔹 **Skills**: Deep learning and AI.
+🔹 **Tools**: Neovim, VScode, Canva.
 
 ---
 
